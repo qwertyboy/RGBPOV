@@ -1,0 +1,8 @@
+RGBPOV - persistence of vision wheel display
+
+Features:
+	-atmega328 - Arduino compatible - includes FTDI header
+	-TLC5940 LED driver IC
+	-16 RGB LEDs - available from Adafruit
+	-Hall effect sensor input
+	-Reset + 2 general-purpose buttons
